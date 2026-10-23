@@ -5,7 +5,7 @@ pandas
 PyPDF2
 
 # Streamlit app
-streamli
+streamlit
 # Audio
 soundfile
 # Web / Scraping / Parsing
