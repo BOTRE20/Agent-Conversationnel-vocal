@@ -1,0 +1,52 @@
+
+pytz
+numpy
+pandas
+PyPDF2
+
+# Streamlit app
+streamli
+# Audio
+soundfile
+# Web / Scraping / Parsing
+beautifulsoup4
+wikipedia
+geopy
+geocoder
+serpapi
+
+# NLP / TTS / Transformers
+
+torch>=2.1.0
+accelerate
+
+deep-translator
+wikipedia
+openai
+requests
+sympy
+numpy
+SpeechRecognition==3.8.1  
+PyAudio==0.2.13
+#streamlit==1.22.0
+gradio==3.36.1
+pydub==0.25.1
+gTTS==2.3.2
+google-search-results==2.4.2
+#transformers>=4.30.0
+#torch>=2.1.0
+transformers>=4.57.1
+#torch>=2.1.0
+streamlit>=1.36
+#streamlit>=1.26.0
+accelerate
+Pillow
+serpapi
+geopy
+geocoder
+python-docx==1.1.0
+unidecode==1.3.8
+
+Flask==2.3.3
+gunicorn==21.2.0
+requests==2.31.0

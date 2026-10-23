@@ -1,0 +1,21 @@
+# ============================================================
+# Variables d'environnement de YANFUDAAN / AQUAMIND
+# Ne jamais commiter ce fichier (ajoute ".env" dans .gitignore).
+# Sur Render : recopie ces variables dans Environment > Environment Variables.
+# ============================================================
+
+# --- Modèles de langage ---
+DEEPINFRA_API_KEY=ivaDF0RR9kyf3RG14aZgkAb5y3i3MrtA
+OPENROUTER_API_KEY=colle_ta_nouvelle_cle_openrouter
+DEEPSEEK_API_KEY=colle_ta_nouvelle_cle_deepseek
+
+# --- Moteurs de recherche (fallback) ---
+SERP_API_KEY=colle_ta_nouvelle_cle_serpapi
+SERPER_KEY=colle_ta_nouvelle_cle_serper
+ZEN_SERP_KEY=colle_ta_nouvelle_cle_zenserp
+# Clé RapidAPI (utilisée par ContextualWeb et Webit)
+RAPIDAPI_KEY=colle_ta_nouvelle_cle_rapidapi
+
+# --- Divers ---
+# URL publique de l'app sur Render (pour le keep-alive). Laisse vide pour désactiver.
+KEEP_ALIVE_URL=https://aquaminnd.onrender.com
