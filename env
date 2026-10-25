@@ -17,5 +17,6 @@ ZEN_SERP_KEY=colle_ta_nouvelle_cle_zenserp
 RAPIDAPI_KEY=colle_ta_nouvelle_cle_rapidapi
 
 # --- Divers ---
+
 # URL publique de l'app sur Render (pour le keep-alive). Laisse vide pour désactiver.
 KEEP_ALIVE_URL=https://aquaminnd.onrender.com
